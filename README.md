@@ -28,7 +28,7 @@ together in a way we didn't even know possible.
 -Mod Support
 
 # Hellow World & Open Source
-
+ 
 As of recently Hellow World has become apart of the vast collection of Open Source Software under the license GNU GPLv3, we did this primarily to make a Launcher that was able to fetch the raw files of the game and import it in a single app, without taking much space at all on top of the launcher itself, along with the other pros that go with it, like letting other people learn and interact with the game on another level.
 
 # Links
