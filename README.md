@@ -33,14 +33,12 @@ As of recently Hellow World has become apart of the vast collection of Open Sour
 
 # Links
 
-License: https://wiki.hellowmedia.com/about/license
+License: https://www.hellowmedia.com/about/license
 
-Mod Wiki: https://wiki.hellowmedia.com/modding/how-to-make-a-mod
+Modding Docs: https://www.hellowmedia.com/modding/documentation
 
-Mods Repo: https://github.com/Hellow-Media/mods
-
-Music Repo: https://github.com/Hellow-Media/hw-music
+Mod.io: https://mod.io/g/hellow-world
 
 Source Repo: https://github.com/Hellow-Media/hw-source
 
-Launcher Repo: https://github.com/Hellow-Media/hellow-world
+Launcher Repo: https://github.com/Hellow-Media/hm-launcher
