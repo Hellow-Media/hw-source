@@ -19,8 +19,6 @@ together in a way we didn't even know possible.
 
 -Interactible Tiles
 
--Paintable Blocks
-
 -Auto Updating
 
 -Side Scrolling
