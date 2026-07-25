@@ -1,9 +1,15 @@
-It happened again...
+Hellow fellow worldenators,
 
-Hellow fellow worldenators! The site's got a brand new look, and yes, knowing us, it'll probably change again in another few years. After lots of planning (we've been working on this since August of 2024...), we decided it was time for a full design refresh.
+We have some sad news for some, but really happy news for us. We are officially ending the development of the Turbowarp version of Hellow World.
 
-Our goal was to make the website cleaner and easier to use, fixing our dreaded UX nightmares that the old website contained. With us getting ready to begin the incorporation process, the timing felt right.
+Why? Because honestly, Scratch sucks for what we are trying to build, it's still a very capable tool, but we are very tired of fighting it and reinventing the wheel over and over again. What started as a fun and easy way to make the game quickly turned into constant workarounds, performance problems (why does the game run so badly on Firefox...), and entire features held together by double-sided duct tape.
 
-Everything's been updated, all the old content should be here, some new stuff like snapshot changelogs, and maybe even a hidden secret or two.
+Every new feature required workarounds, and at this point, more time was being spent battling Scratch than actually making the game.
 
-That’s all for this quick update. We just wanted to clear the air on why the huge change happened and to confirm that it's still us. Stay tuned for more exciting news!
+Because of this, we are shifting all development focus to the Godot version of Hellow World. Godot gives us the freedom to build the game the way we want it, with better performance, cooler mechanics, cleaner systems, and room to grow without hitting a wall every five seconds.
+
+Thank you to everyone who played, tested, and supported the Turbowarp versions. They were an important stepping stone, but it is time to move on and build the game the right way.
+
+The funeral for the Turbowarp version of Hellow World is not going to be held, nobody is invited, it doesn't deserve it.
+
+Cheers!
