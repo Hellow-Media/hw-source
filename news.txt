@@ -1,6 +1,7 @@
 Hellow fellow worldenators...
 
 If you've been following our devlogs over the past couple of years, you've probably noticed a recurring theme: we set an ambitious deadline, miss it, pivot everything, cancel the game, and then casually show up months later as if nothing happened. 
+
 Which brings us to our latest entry in a long list of backtracking decisions: nine months ago, we literally released a blog post called "Scratch Sucks", declared the Scratch version of Hellow World dead, and said its funeral wasn't even worth attending. Fast-forward through those months of complete silence, and... we're back working on the Scratch version. Again.
 
 Scratch is great, actually. We lied.
