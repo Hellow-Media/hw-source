@@ -7,8 +7,8 @@ Which brings us to our latest entry in a long list of backtracking decisions: ni
 Scratch is great, actually. We lied.
 
 Echoless here: 
-
 Jokes aside, I want to be completely honest. Since 2023, I've missed just about every goal, release date, and target I've shared publicly (and privately, too), and have repeatedly reversed "final" decisions.
+
 I know how exhausting that is for anyone trying to follow this project. You get excited about an announcement, like the Steam release date, only to watch it never happen. Managing development, scope creep, burnout, and technical skill has a steep learning curve, and my ambition regularly outpaced reality. I am genuinely sorry for dragging everyone on this rollercoaster.
 
 Here is our honest view of where Hellow World sits right now:
