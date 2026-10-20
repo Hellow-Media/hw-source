@@ -1,15 +1,22 @@
-Hellow fellow worldenators,
+Hellow fellow worldenators...
 
-We have some sad news for some, but really happy news for us. We are officially ending the development of the Turbowarp version of Hellow World.
+If you've been following our devlogs over the past couple of years, you've probably noticed a recurring theme: we set an ambitious deadline, miss it, pivot everything, cancel the game, and then casually show up months later as if nothing happened. 
+Which brings us to our latest entry in a long list of backtracking decisions: nine months ago, we literally released a blog post called "Scratch Sucks", declared the Scratch version of Hellow World dead, and said its funeral wasn't even worth attending. Fast-forward through those months of complete silence, and... we're back working on the Scratch version. Again.
 
-Why? Because honestly, Scratch sucks for what we are trying to build, it's still a very capable tool, but we are very tired of fighting it and reinventing the wheel over and over again. What started as a fun and easy way to make the game quickly turned into constant workarounds, performance problems (why does the game run so badly on Firefox...), and entire features held together by double-sided duct tape.
+Scratch is great, actually. We lied.
 
-Every new feature required workarounds, and at this point, more time was being spent battling Scratch than actually making the game.
+Echoless here: 
 
-Because of this, we are shifting all development focus to the Godot version of Hellow World. Godot gives us the freedom to build the game the way we want it, with better performance, cooler mechanics, cleaner systems, and room to grow without hitting a wall every five seconds.
+Jokes aside, I want to be completely honest. Since 2023, I've missed just about every goal, release date, and target I've shared publicly (and privately, too), and have repeatedly reversed "final" decisions.
+I know how exhausting that is for anyone trying to follow this project. You get excited about an announcement, like the Steam release date, only to watch it never happen. Managing development, scope creep, burnout, and technical skill has a steep learning curve, and my ambition regularly outpaced reality. I am genuinely sorry for dragging everyone on this rollercoaster.
 
-Thank you to everyone who played, tested, and supported the Turbowarp versions. They were an important stepping stone, but it is time to move on and build the game the right way.
+Here is our honest view of where Hellow World sits right now:
 
-The funeral for the Turbowarp version of Hellow World is not going to be held, nobody is invited, it doesn't deserve it.
+- The Godot version was reset again. It was nearly entirely vibecoded, and we aren't going to pretend otherwise. Early on, leaning on AI felt like an easy way to get stuff done quicker. But as always, when AI writes massive chunks of your code for you, you never actually learn how those systems work, or learn much of anything at all. Rather than spending months nuking the third-party thinker code, we decided it was just best to start fresh. No more vibecoding.
 
-Cheers!
+- The Scratch version is the primary version again. We're "actively" developing it; we're releasing snapshots, and it's where most of the current work is happening.
+
+- No more dates, timelines, or promises. We're done setting public goals. No Steam release windows, no targets. Updates will drop when they are ready.
+
+Also, quick side note: we've finally fixed our versioning scheme so that it makes more sense. We've retroactively updated every release to strictly follow MAJOR.MINOR.PATCH, so what was previously known as a0.3.11 is now Alpha 3.1.1, 0.4.0 is Alpha 4.0.0, and the upcoming update is officially Alpha 5.0.0.
+Thank you to everyone who has stuck with us through the chaos. Your patience means far more than you think. ❤️
